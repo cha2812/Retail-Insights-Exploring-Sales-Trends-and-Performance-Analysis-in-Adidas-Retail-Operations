@@ -11,7 +11,7 @@ The following questions were asked and answers were provided to questions and pr
 2. Determine the total units sold for each product category and Identify the product with the lowest total units sold.
 3. Find the top-selling product categories by total sales.
 4. Identify the days with the highest total sales.
-5. Calculate the average operating profit for each sales method.
+5. Calculate the total sales for each sales method.
 6. Find the region with the highest average operating profit.
 7. Calculate the average price per unit for each product category.
 8. Determine the top three states with the least total sales.
