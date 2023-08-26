@@ -82,7 +82,7 @@ Explore new channels, such as e-commerce, to reach customers who prefer online s
 Launch loyalty programs, special discounts, or rewards for customers in states with lower sales. Encourage repeat business and foster brand loyalty.
 
 ## Conclusion
-The analysis enabled us to uncover the dynamics that govern the performance of product categories, sales methods, regions, and states.. <br>
+The analysis enabled us to uncover the dynamics that govern the performance of product categories, sales methods, regions, and states. <br>
 Examining states' sales performances casts light on the diverse landscape of customer preferences and behaviours. Armed with this knowledge, businesses can craft personalized engagement approaches that resonate with local sensibilities. Furthermore, the exploration of operating profits, margins, and prices per unit painted a vivid picture of profitability dynamics, guiding prudent pricing strategies and operational decisions. <br>
 With this newfound understanding, Adidas is equipped to innovate, strategize, and elevate its retail endeavours, creating a symphony of success that resonates across states, regions, and markets.
 
