@@ -18,8 +18,22 @@ The following questions were asked and answers were provided to questions and pr
 
 ## Data Analysis
 The analysis was done using a table that was provided. The table was the retail sales table. <br>
+
+![](pic1.png)
+
 For problem 1, Calculate the total sales for each retailer in the table. <br>
 By grouping the data based on retailers and summing up their total sales, we gain an understanding of which retailers have generated higher sales volumes. This allows us to easily compare the sales performance of different retailers. Retailers with higher total sales are likely to be more successful in terms of revenue generation. <br>
+West Gear sold the most Adidas gear at $242,964,333 while Walmart sold the least Adidas gear at $74,558,410. <br>
+
+![](pic2.png)                                                ![](vis1.png)
+
+2. Determine the total units sold for each product category and Identify the product with the lowest total units sold. <br>
+This analysis helps distinguish between product categories that are performing exceptionally well and those that might need improvement. Categories with high units sold are likely popular among customers, while those with low units sold might require attention. <br>
+
+![](pic3.png)                                                ![](vis4.png)
+
+
+
 
 
 
